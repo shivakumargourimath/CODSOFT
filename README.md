@@ -1,2 +1,2 @@
 # CODSOFT
-In this repository I'm sharing my CodSoft internship tasks
+In this repository I shared my CodSoft internship tasks
