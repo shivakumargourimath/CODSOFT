@@ -1,5 +1,6 @@
 # CODSOFT
 In this repository I shared my CodSoft internship tasks
+
 Task 1:
   Designed a calculator with basic arithmetic operations.
   User allowed to enter two numbers and choose an operation.
